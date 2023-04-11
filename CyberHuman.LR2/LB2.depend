@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1681139589 source:c:\users\mazatroll\desktop\lb2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"menu.h"
+
+1681139405 c:\users\mazatroll\desktop\lb2\menu.h
+
+1681174142 source:c:\users\mazatroll\desktop\lb2\lb2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"menu.h"
+
+1681173573 c:\users\mazatroll\desktop\lb2\lb2\menu.h
+
+1681174102 source:c:\users\mazatroll\desktop\lb2\lb2\menu.c
+	<gl\gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_easy_font.h"
+	"menu.h"
+
+1674029754 c:\users\mazatroll\desktop\lb2\lb2\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1681180684 source:d:\Компьютерная графика\ЛБ2\lb2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"menu.h"
+
+1681179388 d:\Компьютерная графика\ЛБ2\lb2\menu.h
+
+1681179508 source:d:\Компьютерная графика\ЛБ2\lb2\menu.c
+	<gl\gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_easy_font.h"
+	"menu.h"
+
+1674029754 d:\Компьютерная графика\ЛБ2\lb2\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1681180684 source:d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\lb2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"menu.h"
+
+1681179388 d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\lb2\menu.h
+
+1681181008 source:d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\lb2\menu.c
+	<gl\gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"../stb-master/stb_easy_font.h"
+	"../stb-master/stb_image.h"
+	"menu.h"
+
+1674029754 d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1681180684 source:d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"menu.h"
+
+1681179388 d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\menu.h
+
+1681182350 source:d:\Компьютерная графика\ЛБ2\cyberhuman.lr2\menu.c
+	<gl\gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"stb-master/stb_image.h"
+	"menu.h"
+
