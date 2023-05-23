@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1681969236 source:d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"stb-master/stb_image.h"
+
+1674029754 d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682960957 source:d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"main.h"
+	"menu.h"
+	"textur.h"
+
+1682961016 d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+	"textur.h"
+
+1674029754 d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679557834 d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\menu.h
+
+1679556900 d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\textur.h
+
+1682960957 source:d:\Сергей\Учёба\4 семак\Компьютерная графика\4 lab\4 lab\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"textur.h"
+	"stb-master/stb_easy_font.h"
+
+1683612167 source:y:\cg\lab 4 sega\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"main.h"
+	"menu.h"
+	"textur.h"
+
+1683612920 y:\cg\lab 4 sega\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+	"textur.h"
+
+1682961071 y:\cg\lab 4 sega\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1682961071 y:\cg\lab 4 sega\menu.h
+
+1682961071 y:\cg\lab 4 sega\textur.h
+
+1682961071 source:y:\cg\lab 4 sega\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"textur.h"
+	"stb-master/stb_easy_font.h"
+
+1682961071 source:y:\cg\lab 4 sega\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"stb-master/stb_image.h"
+
+1682961071 y:\cg\lab 4 sega\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1684656606 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"main.h"
+	"menu.h"
+	"textur.h"
+
+1684770959 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+	"textur.h"
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\menu.h
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\textur.h
+
+1684770319 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"textur.h"
+	"stb-master/stb_easy_font.h"
+
+1684656606 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"stb-master/stb_image.h"
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 4\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1684656606 source:f:\Компьютерная графика\ЛБ4\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"main.h"
+	"menu.h"
+	"textur.h"
+
+1684770960 f:\Компьютерная графика\ЛБ4\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+	"textur.h"
+
+1684656606 f:\Компьютерная графика\ЛБ4\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684656606 f:\Компьютерная графика\ЛБ4\menu.h
+
+1684656606 f:\Компьютерная графика\ЛБ4\textur.h
+
+1684770320 source:f:\Компьютерная графика\ЛБ4\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"textur.h"
+	"stb-master/stb_easy_font.h"
+
+1684656606 source:f:\Компьютерная графика\ЛБ4\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"stb-master/stb_image.h"
+
+1684656606 f:\Компьютерная графика\ЛБ4\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1684808972 source:d:\Компьютерная графика\ЛБ4\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"main.h"
+	"menu.h"
+	"textur.h"
+
+1684811308 d:\Компьютерная графика\ЛБ4\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+	"textur.h"
+
+1684656606 d:\Компьютерная графика\ЛБ4\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684656606 d:\Компьютерная графика\ЛБ4\menu.h
+
+1684656606 d:\Компьютерная графика\ЛБ4\textur.h
+
+1684810322 source:d:\Компьютерная графика\ЛБ4\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"textur.h"
+	"stb-master/stb_easy_font.h"
+
+1684656606 source:d:\Компьютерная графика\ЛБ4\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"stb-master/stb_image.h"
+
+1684656606 d:\Компьютерная графика\ЛБ4\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
