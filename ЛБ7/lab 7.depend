@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684159251 source:y:\cg\lab 7\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1684656606 source:f:\Компьютерная графика\ЛБ7\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1684768390 source:d:\Компьютерная графика\ЛБ7\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+

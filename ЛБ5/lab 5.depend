@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683616268 source:y:\cg\lab 5\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1684760676 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 5\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
