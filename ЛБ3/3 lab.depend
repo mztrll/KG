@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1684757760 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\menu.h
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\texture.h
+
+1684757332 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1684656606 c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684656606 source:c:\users\mazatroll\desktop\computer_graphics-main\Лабораторная работа 3\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1684759544 source:f:\Компьютерная графика\ЛБ3\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1684656606 f:\Компьютерная графика\ЛБ3\menu.h
+
+1684656606 f:\Компьютерная графика\ЛБ3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1684656606 f:\Компьютерная графика\ЛБ3\texture.h
+
+1684757334 source:f:\Компьютерная графика\ЛБ3\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1684656606 f:\Компьютерная графика\ЛБ3\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684656606 source:f:\Компьютерная графика\ЛБ3\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
